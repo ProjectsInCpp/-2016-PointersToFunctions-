@@ -1,6 +1,11 @@
 # Prerequisites
 *.d
 
+# Redundant folders
+.vs/
+Debug/
+ipch/
+
 # Compiled Object files
 *.slo
 *.lo
